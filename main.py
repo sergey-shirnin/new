@@ -1,6 +1,7 @@
 from config import token
 from telebot import TeleBot
 
+# instance of the class
 bot = TeleBot(token)
 
 
